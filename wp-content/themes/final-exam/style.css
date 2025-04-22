@@ -1,0 +1,12 @@
+/*
+Theme Name:     Final Exam
+Description:    
+Author:         adriap
+Template:       twentytwentyfour
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+main{
+    background-color: rgb(205, 182, 153);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
