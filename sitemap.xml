@@ -17,7 +17,52 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/knitting-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/painting-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/sample-product-page/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/craft-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/clay-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/crochet-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/knitting-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/painting-kit/
         </loc>
     </url>
     <url>
