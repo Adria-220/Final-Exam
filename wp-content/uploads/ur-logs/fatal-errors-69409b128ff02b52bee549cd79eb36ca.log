@@ -1,0 +1,4 @@
+2025-04-22T19:49:38-04:00 CRITICAL Out of memory (allocated 35651584) (tried to allocate 2097152 bytes) in /workspaces/Final-Exam/.wordpress/wp-includes/widgets/class-wp-widget-custom-html.php on line 168
+
+2025-04-22T19:49:38-04:00 CRITICAL Out of memory (allocated 35651584) (tried to allocate 2097152 bytes) in /workspaces/Final-Exam/.wordpress/wp-includes/widgets/class-wp-widget-custom-html.php on line 168
+
